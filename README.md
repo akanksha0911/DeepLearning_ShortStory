@@ -38,6 +38,9 @@ A substantial advantage of this approach is that we require to train the univers
 # Video: https://drive.google.com/drive/u/1/folders/1NHsO325rUNgd98rBE-bwpxp2UMa4TmUM
 
 
+https://www.youtube.com/watch?v=QVf9-V4Ll-g
+
+
 
 References:
 https://paperswithcode.com/paper/high-resolution-image-synthesis-with-latent
